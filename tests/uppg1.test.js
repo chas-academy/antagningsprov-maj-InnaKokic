@@ -15,4 +15,4 @@ describe('uppg1', () => {
     uppg1();
     expect(consoleSpy).toHaveBeenCalledWith('Hello World!');
   });
-});
+}); 
